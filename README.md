@@ -47,7 +47,7 @@ Operações:
 • remover cadastro  
 • listar pacientes  
 **Perguntas:**  
-**1. Por que fila é ideal para recepção?**
+**1. Por que fila é ideal para recepção?**  
 A fila é ideal para recepção porque funciona no modelo FIFO (First In, First Out), ou seja, o primeiro paciente que entra é o primeiro a ser atendido.  
 Isso garante organização e ordem de chegada no atendimento da clínica.  
 
